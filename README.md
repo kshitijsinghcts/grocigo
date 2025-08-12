@@ -194,7 +194,7 @@ The `normalization/` directory contains `.nrm` files describing the normalizatio
 
 ## Credits
 
-Developed by Mukund Sarda and contributors.
+Developed by Mukund Sarda, Dhiren Pradhan, Purvi Hegde, Kshitij Singh, Sai Sathwik Kosuru.
 
 ---
 
